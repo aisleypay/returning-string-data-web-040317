@@ -1,5 +1,5 @@
-Post.destroy_all
-Author.destroy_all
+# Post.destroy_all
+# Author.destroy_all
 
 author1 = Author.create(name: "Stephen King")
 author2 = Author.create(name: "Ariana Huffington")
